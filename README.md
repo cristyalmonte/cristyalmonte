@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on exciting data science projects and building a blog from scratch.
+- 🔭 I’m currently working on exciting data science projects and building a website from scratch.
 - 👯 I’m looking to collaborate on machine learning and AI projects. 
-- ⚡ Fun fact: I can name all of the key proteins that make up your cytoskeleon 😄
+- ⚡ Fun fact: I can name all of the key proteins that make up your cell's cytoskeleon 😄
 - 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/cristy-almonte/)
 

@@ -1,8 +1,8 @@
 ### Welcome friend 👋
 
-- 📈 I’m currently working on exciting data science projects.
-- 🕸️ I’m currently learning how to build an entire website from scratch.
-- 👯 I’m looking to collaborate on machine learning and AI projects. 
+- 📈 I'm working on exciting data science projects.
+- 🕸️ Learning how to build an entire website from scratch.
+- 👯 Looking to collaborate on machine learning and AI projects. 
 - ⚡ Fun fact: I can name all of the key proteins that make up your cell's cytoskeleon 😄
 - 📫 How to reach me:
 - [Website](https://www.linkedin.com/in/cristy-almonte/)

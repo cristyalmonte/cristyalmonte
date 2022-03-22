@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on new and exciting data science projects.
+- 🔭 I’m currently working on exciting data science projects and building a blog from scratch.
 - 👯 I’m looking to collaborate on machine learning and AI projects. 
 - ⚡ Fun fact: I can name all of the key proteins that make up your cytoskeleon 😄
 - 📫 How to reach me:

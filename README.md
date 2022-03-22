@@ -1,4 +1,4 @@
-### Welcome friend 👋
+### Welcome friends 👋
 
 - 📈 I'm currently working on exciting data science projects.
 - 🕸️ While learning how to build an entire website from scratch.

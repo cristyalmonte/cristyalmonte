@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on new and exciting data science projects.
+- 👯 I’m looking to collaborate on machine learning and AI projects. 
+- ⚡ Fun fact: I can name all of the key proteins that make up your cytoskeleon 😄
+- 📫 How to reach me:
+- [Linkedin](https://www.linkedin.com/in/cristy-almonte/)
+
 
 <!--
 **cristyalmonte/cristyalmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

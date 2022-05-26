@@ -1,7 +1,7 @@
 ### Welcome friends 👋
 
 - 📈 I'm currently working on exciting data science projects.
-- 🕸️ While learning how to build a website from scratch.
+<!-- - 🕸️ While learning how to build a website from scratch. -->
 - 👯 Always looking to collaborate on machine learning and AI projects. 
 - ⚡ Fun fact: I can name all of the key proteins that make up your cell's cytoskeleon 😄
 - 📫 How to reach me:

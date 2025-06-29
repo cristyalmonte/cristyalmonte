@@ -1,6 +1,5 @@
 ### Welcome, Friends! 👋
 
-- 🔭 **Working on:** [Nostr](https://nostr.com/) projects, focused on decentralized communication.
 - 🚀 **Maintainer:** [RelayRunner.org](https://relayrunner.org) & [RelayWizard.com](https://relaywizard.com).
 - 🎓 **Passionate about:** Creating educational content to make tech accessible.
 - 💬 **Ask me about:** Decentralized networks, data science and engineering.

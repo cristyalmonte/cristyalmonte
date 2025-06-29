@@ -3,7 +3,6 @@
 - 🚀 **Maintainer:** [RelayRunner.org](https://relayrunner.org) & [RelayWizard.com](https://relaywizard.com).
 - 🎓 **Passionate about:** Creating educational content to make tech accessible.
 - 💬 **Ask me about:** Decentralized networks, data science and engineering.
-- ⚡ **Fun fact:** When I'm not coding, I'm experimenting with sourdough—balancing the *sweet* and the *sour*.
 
 <!--
 **cristyalmonte/cristyalmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

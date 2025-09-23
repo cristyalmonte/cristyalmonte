@@ -1,7 +1,7 @@
 ### Welcome, Friends! 👋
 
 - 🚀 **Maintainer:** [LearnNostr.org](https://learnnostr.org) ,[RelayRunner.org](https://relayrunner.org) & [RelayWizard.com](https://relaywizard.com).
-- 💬 **Ask me about:** Decentralized networks & data scienc
+- 💬 **Ask me about:** Decentralized networks & anything and everything data related
 
 <!--
 **cristyalmonte/cristyalmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

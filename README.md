@@ -1,6 +1,6 @@
 ### Welcome, Friends! 👋
 
-- 🚀 **Maintainer:** [LearnNostr.org](https://learnnostr.org) ,[RelayRunner.org](https://relayrunner.org) & [RelayWizard.com](https://relaywizard.com).
+- 🚀 **Maintainer:** [LearnNostr.org](https://learnnostr.org).
 - 💬 **Ask me about:** Decentralized networks & anything and everything data related
 
 <!--

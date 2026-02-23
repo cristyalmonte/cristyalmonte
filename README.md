@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Hi, I'm Cristy</h1>
-  <p>Data scientist and open-source developer building real-world data systems, analytics tools, and decentralized infrastructure.</p>
 
   <!-- Tech badges -->
   <p>

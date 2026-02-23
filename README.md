@@ -30,25 +30,6 @@
 
 ---
 
-## 🧠 Focus Areas
-
-Data Science • Analytics • Experimentation • Open Infrastructure • Decentralized Systems
-
----
-
-## 🛠 Tech
-
-**Data & Analytics:**  
-Python • SQL • Pandas • Machine Learning • Data Visualization  
-
-**Systems & Infrastructure:**  
-APIs • Distributed Systems • Data Pipelines • Automation  
-
-**Open Tech:**  
-Nostr • Relay Infrastructure • Open Protocol Tooling  
-
----
-
 ## 📫 Connect
 
 - **Nostr:** https://njump.me/npub1ltu4lpwpr9vlnztd27f8n4nzax6s55jcpem8mpl4p9ep2f76ykeqsnnchu

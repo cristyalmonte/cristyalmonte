@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-Data scientist and open-source builder focused on real-world data systems, analytics, and decentralized infrastructure.
+Data scientist and open-source developer focused on real-world data systems, analytics, and decentralized infrastructure.
 
 🚀 **Maintainer:**  
 - [LearnNostr.org](https://learnnostr.org) — open education for decentralized networks  

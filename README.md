@@ -1,11 +1,31 @@
-### Welcome 👋
+## 👋 Hi, I'm Cristy
 
-Data scientist and open-source developer focused on real-world data systems, analytics, and decentralized infrastructure.
+Data scientist and open-source developer building real-world data systems, analytics tools, and decentralized infrastructure.
 
-🚀 **Maintainer:**  
-- [LearnNostr.org](https://learnnostr.org) — educational platform for mastering the Nostr protocol 
-- Relay Wizard — tooling for relay deployment and management  
-- Relay Runner — infrastructure and automation for Nostr relays  
+---
 
-💬 **Ask me about:**  
-Data science, experimentation, open infrastructure, and decentralized networks
+### 🚀 Maintainer
+- **LearnNostr** → https://learnnostr.org  
+  Educational platform for mastering the Nostr protocol and decentralized networks  
+- **Relay Wizard** → tooling for relay deployment and management  
+- **Relay Runner** → infrastructure and automation for Nostr relays  
+
+---
+
+### 🧠 Focus Areas
+Data Science • Analytics • Open Infrastructure • Decentralized Systems
+
+---
+
+### 🛠 Tech
+
+**Data & Analytics:**  
+Python • SQL • Pandas • Machine Learning • Data Visualization  
+
+**Open Tech:**  
+Nostr • Bitcoin • Lightning • Relay Infrastructure • Open Protocol Tooling  
+
+---
+
+### 📫 Connect
+Nostr:npub1ltu4lpwpr9vlnztd27f8n4nzax6s55jcpem8mpl4p9ep2f76ykeqsnnchu

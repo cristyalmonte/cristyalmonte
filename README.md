@@ -1,19 +1,11 @@
-### Welcome, Friends! 👋
+### Welcome 👋
 
-- 🚀 **Maintainer:** [LearnNostr.org](https://learnnostr.org).
-- 💬 **Ask me about:** Decentralized networks & anything and everything data related
+Data scientist and open-source builder focused on real-world data systems, analytics, and decentralized infrastructure.
 
-<!--
-**cristyalmonte/cristyalmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Maintainer:**  
+- [LearnNostr.org](https://learnnostr.org) — open education for decentralized networks  
+- Relay Wizard — tooling for relay deployment and management  
+- Relay Runner — infrastructure and automation for Nostr relays  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 **Ask me about:**  
+Data science, experimentation, open infrastructure, and decentralized networks

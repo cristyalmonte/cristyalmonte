@@ -15,6 +15,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=00ADB5&center=true&vCenter=true&width=820&lines=Data+Scientist+%26+Open-Source+Maintainer;Data+Systems+%E2%80%A2+Analytics+%E2%80%A2+Experimentation;Nostr+%E2%80%A2+Open+Infrastructure+%E2%80%A2+Protocol+Tooling;LearnNostr+%7C+Relay+Runner+%7C+Relay+Wizard" />
   </p>
 </div>
+
 ---
 
 ## 🚀 Maintainer
@@ -27,11 +28,15 @@
 
 - **Relay Wizard** → https://github.com/nodetec/relaywizard.com  
   Deployment and management tooling for Nostr relays  
+
 ---
+
 ## 🧠 Focus Areas
 
 Data Science • Analytics • Experimentation • Open Infrastructure • Decentralized Systems
+
 ---
+
 ## 🛠 Tech
 
 **Data & Analytics:**  
@@ -42,11 +47,15 @@ APIs • Distributed Systems • Data Pipelines • Automation
 
 **Open Tech:**  
 Nostr • Relay Infrastructure • Open Protocol Tooling  
+
 ---
+
 ## 📫 Connect
 
 - **Nostr:** https://njump.me/npub1ltu4lpwpr9vlnztd27f8n4nzax6s55jcpem8mpl4p9ep2f76ykeqsnnchu
+
 ---
+
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
   <br/>

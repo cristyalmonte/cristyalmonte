@@ -1,55 +1,62 @@
-<h2 align="center">👋 Hi, I'm Cristy</h2>
+<div align="center">
 
-<p align="center">
-Data Scientist & Open-Source Maintainer building real-world data systems, analytics tools, and decentralized infrastructure.
-</p>
+# 👋 Hi, I'm Cristy
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+Open-Source+Maintainer;Analytics+%E2%80%A2+Data+Systems+%E2%80%A2+Experimentation;Nostr+%E2%80%A2+Open+Infrastructure+%E2%80%A2+Protocol+Tooling;Maintainer+of+LearnNostr+%7C+Relay+Runner+%7C+Relay+Wizard" />
-</p>
+### Data Scientist & Open-Source Maintainer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1400&center=true&vCenter=true&width=750&lines=Nostr+Developer+%E2%80%A2+Open+Infrastructure;Data+Science+%E2%80%A2+Analytics+%E2%80%A2+Experimentation;Maintainer+of+LearnNostr+%7C+Relay+Runner+%7C+Relay+Wizard;Building+real-world+data+systems+and+tools" />
 
-### 🚀 Maintainer
-
-- **LearnNostr** → https://learnnostr.org  
-  Educational platform for mastering the Nostr protocol and decentralized networks  
-
-- **Relay Runner** → https://relayrunner.org  
-  Infrastructure and automation for running and scaling Nostr relays  
-
-- **Relay Wizard** → https://github.com/nodetec/relaywizard.com  
-  Deployment and management tooling for Nostr relays  
+</div>
 
 ---
 
-### 🧠 Focus Areas
-Data Science • Analytics • Experimentation • Open Infrastructure • Decentralized Systems
+## 🚀 Maintainer Projects
+
+### 🌐 LearnNostr  
+**https://learnnostr.org**  
+Education platform to master the Nostr protocol and decentralized networks.
+
+### ⚡ Relay Runner  
+**https://relayrunner.org**  
+Infrastructure and automation for running and scaling Nostr relays.
+
+### 🧙 Relay Wizard  
+**https://github.com/nodetec/relaywizard.com**  
+Deployment and management tooling for Nostr relay infrastructure.
 
 ---
 
-### 🛠 Tech
+## 🧠 Focus
 
-**Data & Analytics:**  
+`Data Science` • `Analytics` • `Experimentation`  
+`Open Infrastructure` • `Distributed Systems` • `Nostr`
+
+---
+
+## 🛠 Tech Stack
+
+**Data & Analytics**  
 Python • SQL • Pandas • Machine Learning • Data Visualization  
 
-**Systems & Infrastructure:**  
-APIs • Distributed Systems • Data Pipelines • Automation  
+**Infrastructure & Systems**  
+APIs • Distributed Systems • Automation • Data Pipelines  
 
-**Open Tech:**  
-Nostr • Relay Infrastructure • Open Protocol Tooling  
-
----
-
-### 📫 Connect
-Nostr: https://njump.me/npub1ltu4lpwpr9vlnztd27f8n4nzax6s55jcpem8mpl4p9ep2f76ykeqsnnchu
+**Open Tech**  
+Nostr • Relay Infrastructure • Protocol Tooling  
 
 ---
 
-<details>
-<summary><b>📊 GitHub Stats</b></summary>
-<br/>
+## 📡 Connect
 
-<img src="https://github-readme-stats.vercel.app/api?username=cristyalmonte&show_icons=true" />
+Nostr:  
+https://njump.me/npub1ltu4lpwpr9vlnztd27f8n4nzax6s55jcpem8mpl4p9ep2f76ykeqsnnchu
 
-</details>
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cristyalmonte&show_icons=true&theme=default" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristyalmonte&layout=compact&theme=default" height="150"/>
+
+</div>

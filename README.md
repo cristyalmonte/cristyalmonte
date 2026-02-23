@@ -32,7 +32,8 @@
 
 ## 📫 Connect
 
-- **Nostr:** https://njump.me/npub1ltu4lpwpr9vlnztd27f8n4nzax6s55jcpem8mpl4p9ep2f76ykeqsnnchu
+- **Nostr:** npub1ltu4lpwpr9vlnztd27f8n4nzax6s55jcpem8mpl4p9ep2f76ykeqsnnchu
+
 
 ---
 

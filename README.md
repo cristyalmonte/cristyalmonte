@@ -35,13 +35,3 @@
 - **Nostr:** npub1ltu4lpwpr9vlnztd27f8n4nzax6s55jcpem8mpl4p9ep2f76ykeqsnnchu
 
 
----
-
-<details>
-  <summary><b>📊 GitHub Stats</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cristyalmonte&show_icons=true" height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristyalmonte&layout=compact" height="160" />
-  </p>
-</details>
